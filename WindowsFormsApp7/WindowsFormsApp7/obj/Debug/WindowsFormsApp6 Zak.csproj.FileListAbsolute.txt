@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\WindowsFormsApp6 Zak\obj\Debug\WindowsFormsApp6 Zak.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\WindowsFormsApp6 Zak\obj\Debug\WindowsFormsApp6_Zak.Form1.resources
+C:\Users\User\source\repos\WindowsFormsApp6 Zak\obj\Debug\WindowsFormsApp6_Zak.Form2.resources
+C:\Users\User\source\repos\WindowsFormsApp6 Zak\obj\Debug\WindowsFormsApp6_Zak.Properties.Resources.resources
+C:\Users\User\source\repos\WindowsFormsApp6 Zak\obj\Debug\WindowsFormsApp6 Zak.csproj.GenerateResource.cache
+C:\Users\User\source\repos\WindowsFormsApp6 Zak\obj\Debug\WindowsFormsApp6 Zak.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WindowsFormsApp6 Zak\bin\Debug\WindowsFormsApp6 Zak.exe.config
+C:\Users\User\source\repos\WindowsFormsApp6 Zak\bin\Debug\WindowsFormsApp6 Zak.exe
+C:\Users\User\source\repos\WindowsFormsApp6 Zak\bin\Debug\WindowsFormsApp6 Zak.pdb
+C:\Users\User\source\repos\WindowsFormsApp6 Zak\obj\Debug\WindowsFormsApp6 Zak.exe
+C:\Users\User\source\repos\WindowsFormsApp6 Zak\obj\Debug\WindowsFormsApp6 Zak.pdb
+C:\Users\User\source\repos\WindowsFormsApp6 Zak\obj\Debug\WindowsFormsApp6 Zak.exe.config

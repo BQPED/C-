@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36327.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagazinSklad", "WindowsFormsApp7\MagazinSklad.csproj", "{F9963B15-81BA-4957-A758-67782DF261DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9963B15-81BA-4957-A758-67782DF261DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9963B15-81BA-4957-A758-67782DF261DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9963B15-81BA-4957-A758-67782DF261DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9963B15-81BA-4957-A758-67782DF261DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1F02BEE-8248-491C-9077-932D662C7383}
+	EndGlobalSection
+EndGlobal
